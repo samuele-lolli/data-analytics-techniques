@@ -31,6 +31,6 @@ For more information, you can view the following Jupyter Notebooks:
 - `data-visualization.ipynb`
 - `ml-sklearn.ipynb`
 - `feedforward-pytorch.ipynb`
-- `tabular-pytorch.ipynb
+- `tabular-pytorch.ipynb`
 
 This project demonstrates a comprehensive approach to data analytics, from preprocessing to model evaluation, using both classical machine learning models and more advanced neural network models.
